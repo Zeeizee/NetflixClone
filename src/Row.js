@@ -22,7 +22,7 @@ function Row(props) {
         const opts={
             height:"390",
             width:"100%",
-            playVars:{
+            playerVars:{
                 autoplay:1,
             },
 
