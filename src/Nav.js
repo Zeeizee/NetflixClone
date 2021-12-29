@@ -19,8 +19,8 @@ export default function Nav() {
     return (
         <div>
             <div className={`nav ${show && "nav__black"}`}>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" alt="netflix-image" className="nav__logo" />
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="netflix-image" className="nav__avatar" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" alt="netflix" className="nav__logo" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="netflix-avatar" className="nav__avatar" />
             </div>
         </div>
     )
